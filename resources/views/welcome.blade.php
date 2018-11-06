@@ -84,7 +84,7 @@
 
                 <div class="links">
                     <a href="mailto:james@j-russell.co.uk">Email</a>
-                    <a href="https://github.com/jamesrussell42">GitHub</a>
+                    <a href="https://github.com/jamesrussell42" target="_blank">GitHub</a>
                 </div>
             </div>
         </div>
